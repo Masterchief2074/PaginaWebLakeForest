@@ -1,4 +1,80 @@
 body{
-background-color: red;
+    background-image: url("../img/Fondo-Canelo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
-/*
+.inicio{
+    display: flex;   
+    flex-direction: column;
+    align-items: center; 
+}
+
+
+.inicio h1{
+    font-size: 100px;
+    font-family: Arial;
+    font-weight: 700;
+}
+
+.inicio img{
+    border-radius: 100%;
+    border: 5px solid white
+}
+
+h1{
+
+    color: rgb(154, 255, 255);
+}
+
+
+
+h2{
+
+    color: rgb(154, 255, 255);
+}
+
+h3{
+
+    color: rgb(252, 134, 134);
+}
+
+h4{
+
+    color: rgb(252, 134, 134);
+}
+
+h5{
+
+    color: rgb(252, 134, 134);
+}
+
+h6{
+
+    color: rgb(252, 134, 134);
+}
+
+.primer-parrafo{
+  color:blue;
+ font-size: 50px;
+ font-family: cursive;
+ font-weight: 800;
+}
+ .segundo-parrafo{
+ color:brown;
+ font-size: 50px;
+ font-family: cursive;
+ font-weight: 800;
+ }
+
+ .galeria{
+  display:flex;
+  border: 2px solid;
+  overflow-x: scroll;
+ }
+
+ .galeria img{
+ width:350px;
+ 
+
+ }
