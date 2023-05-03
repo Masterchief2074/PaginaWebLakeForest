@@ -75,6 +75,23 @@ h6{
 
  .galeria img{
  width:350px;
- 
-
  }
+
+ nav{
+     display: flex;
+     justify-content: space-around;
+     align-items; center;
+background-color: rgb(154, 255, 255);
+ }
+
+ nav ul{
+        display
+        justify
+        align-items
+        list-style
+}
+
+
+nav ul li{
+    margin: 0 10ps;
+}
