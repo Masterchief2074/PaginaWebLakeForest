@@ -1,5 +1,5 @@
 body{
-    background-image: url("../img/Fondo-Canelo.jpg");
+    background-image: url("../img/saul-canelo-alvarez.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -8,13 +8,16 @@ body{
     display: flex;   
     flex-direction: column;
     align-items: center; 
+    color: white;
 }
+
 
 
 .inicio h1{
     font-size: 100px;
     font-family: Arial;
     font-weight: 700;
+    color: white;
 }
 
 .inicio img{
@@ -80,18 +83,14 @@ h6{
  nav{
      display: flex;
      justify-content: space-around;
-     align-items; center;
+     align-items: center;
 background-color: rgb(154, 255, 255);
  }
 
- nav ul{
-        display
-        justify
-        align-items
-        list-style
-}
+ .historia{
+    color: white;
+ }
 
-
-nav ul li{
-    margin: 0 10ps;
-}
+ .Premios{
+    color: red;
+ }
